@@ -1,5 +1,5 @@
 const core = require('@actions/core');
-const github = requie('@actions/github');
+const github = require('@actions/github');
 
 try{
 
