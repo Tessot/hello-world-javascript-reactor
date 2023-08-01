@@ -13,4 +13,5 @@ try{
 
 }catch(error){
     core.setFailed(error.messsage);
+    //catching all errors
 }
